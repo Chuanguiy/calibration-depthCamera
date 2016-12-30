@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<cam_distortion_coeffs type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    1.40563950e-001 -6.99675083e-001 2.00512051e-003 -2.10799091e-003
+    6.20149672e-001</data></cam_distortion_coeffs>
+</opencv_storage>
